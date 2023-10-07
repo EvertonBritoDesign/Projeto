@@ -103,7 +103,7 @@ h1 {
   border-radius: 9999px;
   border: 1px solid var(--stroke-color);
   background: var(--surface-color);
-  -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
 }
 
 /*links*/
